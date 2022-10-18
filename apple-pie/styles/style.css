@@ -78,6 +78,8 @@
     counter-increment: step-counter;
     margin-left: 2rem;
     line-height: 1.5;
+    list-style: none ;
+    margin-bottom: 10px;
   }
  
  
